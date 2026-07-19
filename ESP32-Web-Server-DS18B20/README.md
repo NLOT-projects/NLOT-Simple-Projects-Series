@@ -2,7 +2,7 @@
 
 A simple project turning an ESP32 into its own mini web server, displaying a live temperature reading from a DS18B20 sensor — viewable from any browser on the same WiFi network.
 
-📺 Watch the video here: https://youtu.be/QMBJbXSEMfQ 
+Watch the video here: https://youtu.be/QMBJbXSEMfQ 
 
 ## What you need
 - ESP32 dev board
