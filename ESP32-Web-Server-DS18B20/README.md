@@ -1,12 +1,14 @@
 # ESP32 Web Server with DS18B20 Temperature Sensor
 
-A simple project turning an ESP32 into its own mini web server, displaying a live temperature reading from a DS18B20 sensor — viewable from any browser on the same WiFi network.
+A simple project turning an ESP32 into its own mini web server, displaying a live temperature reading from a DS18B20 sensor, viewable from any browser on the same WiFi network.
 
-Watch the video here: https://youtu.be/QMBJbXSEMfQ 
+Watch the video here: YouTube 
 
 ## What you need
 - ESP32 dev board
 - DS18B20 temperature sensor
+- Cable for connections
+- Jumper Wires (3) 
 - Arduino IDE with ESP32 board support installed
 
 ## Libraries required
@@ -31,4 +33,5 @@ Install these via Arduino IDE → Sketch → Include Library → Manage Librarie
 - Make sure your device (phone/PC/iPad) is on the same WiFi network as the ESP32
 
 ---
-Part of my **Simple Projects Series** — quick, small DIY tech and embedded builds.
+Part of my **Simple Projects Series** a quick, small DIY tech and embedded builds.
+
